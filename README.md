@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ary2708
 - 👀 I’m interested in blockchain and related technologies
 - 🌱 I’m currently learning Solidity Programming
-- 💞️ I’m looking to collaborate on programs related to blockchain
+- 🦸‍♂️ I’m looking to collaborate on programs related to blockchain
 - 📫 How to reach me : just email me:)
 
 <!---
